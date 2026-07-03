@@ -1,0 +1,4 @@
+This file summarizes the data processing steps.
+Original DataFrame shape: (150, 5)
+Processed DataFrame shape (after outlier removal): (147, 5)
+Processed DataFrame shape (after fillna and scaling): (150, 5)
